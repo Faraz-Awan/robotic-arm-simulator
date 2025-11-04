@@ -1,6 +1,7 @@
 # 2-DOF Interactive Robotic Arm Simulator
 
-An interactive **2-degree-of-freedom robotic arm** simulator that visualizes **forward and inverse kinematics** in real time.  
+An interactive **2-degree-of-freedom robotic arm** simulator that visualizes **forward and inverse kinematics** in real time.
+
 Built using **Python**, **NumPy**, **matplotlib**, and **Streamlit**.
 
 <p align="center">
